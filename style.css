@@ -146,6 +146,9 @@ section {
     color: #a6b8c7;
     /* 25C-2 */
     position: absolute;
+    width: 50vw;
+    margin: 20px;
+    margin-top: 0px;
 }
 
 
